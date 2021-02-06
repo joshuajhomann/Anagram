@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PrefixTrie",
+        "repositoryURL": "https://github.com/joshuajhomann/PrefixTrie",
+        "state": {
+          "branch": null,
+          "revision": "16c62b78414f23b38b8c63c99d7af9d95691e51f",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-algorithms",
+        "repositoryURL": "https://github.com/apple/swift-algorithms",
+        "state": {
+          "branch": null,
+          "revision": "bb3bafeca0e164ece3403a9de646b7d38c07dd49",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "swift-numerics",
+        "repositoryURL": "https://github.com/apple/swift-numerics",
+        "state": {
+          "branch": null,
+          "revision": "6b24333510e9044cf4716a07bed65eeed6bc6393",
+          "version": "0.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
